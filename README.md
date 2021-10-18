@@ -1,5 +1,5 @@
 <div>
-<img src="(https://cdn.codegym.cc/images/article/52fc6006-d417-4463-b6fd-9c2607720615/512.webp?width=80&height=150)">
+<img src="https://cdn.codegym.cc/images/article/52fc6006-d417-4463-b6fd-9c2607720615/512.webp?width=80&height=150">
   <div>
 <div>
   <a href="https://github.com/williamccampos">
