@@ -1,5 +1,3 @@
-![why-work](https://imgur.com/l8Cx4YD)
-
  <div>
   <a href="https://github.com/williamccampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +11,7 @@
   <img align="center" alt="William-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="William-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="William-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="why" height="150" style="border-radius:50px;" src="https://imgur.com/l8Cx4YD?width=676&height=676">
+ <img align="right" alt="why" height="150" style="border-radius:50px;" src="https://imgur.com/qlgYkR4?width=676&height=676">
 </div>
   
   ##
