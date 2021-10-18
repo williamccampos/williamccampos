@@ -11,7 +11,7 @@
   <img align="center" alt="William-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="William-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="William-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="why" height="150" style="border-radius:50px;" src="https://imgur.com/a/elMa8yX">
+ <img align="right" alt="why" height="150" style="border-radius:50px;" src="https://cdn.codegym.cc/images/article/52fc6006-d417-4463-b6fd-9c2607720615/512.webp">
 </div>
   
   ##
