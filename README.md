@@ -1,6 +1,4 @@
-💻 Welcome to my Dev World
-
-🧲 Clone, contribua, distribua
+![Hello](https://imgur.com/a/LanDgH4)
 
  <div>
   <a href="https://github.com/williamccampos">
