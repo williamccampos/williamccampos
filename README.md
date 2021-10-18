@@ -1,4 +1,4 @@
-![Hello](https://imgur.com/a/LanDgH4)
+![Hello](https://imgur.com/gallery/LanDgH4)
 
  <div>
   <a href="https://github.com/williamccampos">
