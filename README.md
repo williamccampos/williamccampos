@@ -1,13 +1,12 @@
 <div align="left">
   <img align="left" alt="why" height="430" style="border-radius:50px;" src="https://cdn.codegym.cc/images/article/52fc6006-d417-4463-b6fd-9c2607720615/512.webp?width=840&height=676">
   </div>
-<div>
+<div align="right">
   <a href="https://github.com/williamccampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 <div>
   
-## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="William-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="William-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
