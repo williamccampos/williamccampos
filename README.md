@@ -1,5 +1,5 @@
 <div align="left">
-  <img align="left" alt="why" height="430" style="border-radius:60px;" src="https://cdn.codegym.cc/images/article/52fc6006-d417-4463-b6fd-9c2607720615/512.webp?width=840&height=676">
+  <img align="left" alt="why" height="430" style="border-radius:60px;" src="https://global.discourse-cdn.com/codecademy/original/5X/3/c/8/5/3c85feecb4eb52a4d69ef0891cfbc495a1da7174.png?width=840&height=676">
 </div>
 <div align="right">
   <a href="https://github.com/williamccampos">
