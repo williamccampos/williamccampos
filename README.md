@@ -1,31 +1,80 @@
-<div align="left">
-  <img align="left" alt="why" height="430" style="border-radius:60px;" src="https://global.discourse-cdn.com/codecademy/original/5X/3/c/8/5/3c85feecb4eb52a4d69ef0891cfbc495a1da7174.png?width=840&height=676">
-</div>
-<div align="right">
-  <a href="https://github.com/williamccampos">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=williamccampos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-</div>
-  
-<div align="right" style="display: inline_block"><br>
-  <img height="40" align="center" alt="William-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img height="30" align="center" alt="William-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" align="center" alt="William-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img height="30" align="center" alt="William-React" height="30" width="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" align="center" alt="William-HMTL5" height="30" width="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" align="center" alt="William-CSS3" height="30" width="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" align="center" alt="William-Python" height="30" width="40" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+<h1 align="center">Hi, I'm William Campos 🚀</h1>
+<h3 align="center">Tech Lead | Backend Engineer | Distributed Systems & Scalable Architectures</h3>
 
-<h2 align="left">Contato</h2>
-<div align="left">
-  <a href="https://instagram.com/_williamcampos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: william.c.campos@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/william-campos-88165936/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</br>
-  </div>
-  </div>
- 
-  ![Snake animation](https://github.com/williamccampos/williamccampos/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="center">
+  <a href="mailto:william.c.campos@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/william-campos-88165936" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/williamccampos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Tech Lead at **RD Saúde**, leading backend teams focused on **high-scale transactional systems** and **complex integrations** within the PBM (Pharmacy Benefit Management) ecosystem.
+
+I specialize in designing and evolving **distributed systems**, improving **system reliability**, and driving **technical excellence** across teams.
+
+* Leading multiple squads delivering mission-critical systems
+* Designing scalable microservices and integration architectures
+* Driving modernization of legacy systems (Java 8 → 17+)
+* Supporting production environments with high availability requirements
+* Mentoring engineers and fostering strong engineering culture
+
+---
+
+### ⚙️ Tech Stack
+
+**Backend**
+
+* Java (8 → 21), Spring Boot
+* Node.js, Python
+
+**Architecture & Integration**
+
+* Microservices, Event-driven systems
+* REST APIs, GraphQL, Messaging (RabbitMQ)
+
+**Data & Storage**
+
+* Oracle, MySQL, MongoDB, Redis
+
+**Cloud & DevOps**
+
+* Docker, CI/CD pipelines
+* Observability (Datadog)
+
+**Frontend (supporting role)**
+
+* React, JavaScript
+
+---
+
+### 🧠 What I Care About
+
+* Building **resilient and scalable systems**
+* Clean architecture and maintainability
+* Developer experience & productivity
+* Applying **AI to engineering workflows** (code review, automation, insights)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=github_dark"/>
+</p>
+
+---
+
+### 📫 Contact
+
+* Email: **[william.c.campos@icloud.com](mailto:william.c.campos@icloud.com)**
+* LinkedIn: https://www.linkedin.com/in/william-campos-88165936
