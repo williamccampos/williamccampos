@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm William Campos 🚀</h1>
-<h3 align="center">Tech Lead | Backend Engineer | Distributed Systems & Scalable Architectures</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4DA15E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+William+Campos+%F0%9F%91%8B;Tech+Lead+%7C+Backend+Engineer;Distributed+Systems+%26+Scalable+Architectures" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="mailto:william.c.campos@icloud.com">
@@ -31,28 +34,17 @@ I specialize in designing and evolving **distributed systems**, improving **syst
 
 ### ⚙️ Tech Stack
 
-**Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,docker,mongodb,redis,mysql,rabbitmq,graphql,react,js,git,linux&perline=7" />
+</p>
 
-* Java (8 → 21), Spring Boot
-* Node.js, Python
-
-**Architecture & Integration**
-
-* Microservices, Event-driven systems
-* REST APIs, GraphQL, Messaging (RabbitMQ)
-
-**Data & Storage**
-
-* Oracle, MySQL, MongoDB, Redis
-
-**Cloud & DevOps**
-
-* Docker, CI/CD pipelines
-* Observability (Datadog)
-
-**Frontend (supporting role)**
-
-* React, JavaScript
+| Domain | Technologies |
+|--------|-------------|
+| **Backend** | Java (8 → 21), Spring Boot, Node.js, Python |
+| **Architecture** | Microservices, Event-driven, REST, GraphQL, RabbitMQ |
+| **Data** | Oracle, MySQL, MongoDB, Redis |
+| **Cloud & DevOps** | Docker, CI/CD, Observability (Datadog) |
+| **Frontend** | React, JavaScript |
 
 ---
 
@@ -68,14 +60,20 @@ I specialize in designing and evolving **distributed systems**, improving **syst
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=86400"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=github_dark&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=default&cache_seconds=86400"/>
-  </picture>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamccampos&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/williamccampos/williamccampos/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -83,4 +81,4 @@ I specialize in designing and evolving **distributed systems**, improving **syst
 ### 📫 Contact
 
 * Email: **[william.c.campos@icloud.com](mailto:william.c.campos@icloud.com)**
-* LinkedIn: https://www.linkedin.com/in/william-campos-88165936
+* LinkedIn: [william-campos-88165936](https://www.linkedin.com/in/william-campos-88165936)
