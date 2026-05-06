@@ -68,8 +68,14 @@ I specialize in designing and evolving **distributed systems**, improving **syst
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=github_dark"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=86400"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=github_dark&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=default&cache_seconds=86400"/>
+  </picture>
 </p>
 
 ---
