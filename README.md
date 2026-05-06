@@ -60,20 +60,16 @@ I specialize in designing and evolving **distributed systems**, improving **syst
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=williamccampos&theme=github-dark-blue&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=williamccampos&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamccampos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamccampos&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamccampos&theme=github_dark"/>
 </p>
 
----
-
-### 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/williamccampos/williamccampos/output/github-snake-dark.svg" alt="Snake animation" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williamccampos&theme=github_dark"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=williamccampos&theme=github_dark&utcOffset=-3"/>
 </p>
 
 ---
