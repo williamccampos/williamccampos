@@ -73,8 +73,3 @@ I specialize in designing and evolving **distributed systems**, improving **syst
 </p>
 
 ---
-
-### 📫 Contact
-
-* Email: **[william.c.campos@icloud.com](mailto:william.c.campos@icloud.com)**
-* LinkedIn: [william-campos-88165936](https://www.linkedin.com/in/william-campos-88165936)
